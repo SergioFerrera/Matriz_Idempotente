@@ -1,2 +1,7 @@
-# Matriz_Idempotente
-Programa en C# que calcula la matriz Idempotente
+Objetivo del programa
+===============
+Calcular la matriz Idempotente
+
+Lenguaje de programación usado
+===============
+C#
